@@ -3,7 +3,8 @@
 // ============================================================
 
 // const API = '';          // empty = same origin (served by Express)
-const API = window.location.origin;
+// const API = window.location.origin;
+const API = "https://t-app-7ykc.onrender.com";
 
 // ── DOM References ──────────────────────────────────────────
 const farmerForm      = document.getElementById('farmerForm');
